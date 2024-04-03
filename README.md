@@ -30,7 +30,7 @@ Welccome to my data playground! I enjoy exploring different technologies in my s
 
 ***
 
-# Maico-notes
+# Maico's notes
 | Document Link | Area of Analysis | Description | 
 |---|---|---|
 | ☁️ [AWS Cloud Practitioner Essentials (2022) Notes](https://drive.google.com/file/d/12KdiXTSX9ACIWVa33cts-txpUxDzVD79/view)| Amazon Web Service, Cloud technology | Sharing my notes while preparing for the AWS Cloud Practitioner exam last 2022. This covers modules from compute in the cloud, global infrastructure, networking, storage and databases, security, monitoring, and pricing and support. | 
