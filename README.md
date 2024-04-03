@@ -6,7 +6,7 @@ Welccome to my data playground! I enjoy exploring different technologies in my s
 - [SQL](#sql)
 - [Python](#python)
 - [Dashboards](#dashboards)
-- [Maico's notes](#maico-notes)
+- [Maico's notes](#maicos-notes)
 
   # SQL
 | Project Link | Area of Analysis | Project Description | 
